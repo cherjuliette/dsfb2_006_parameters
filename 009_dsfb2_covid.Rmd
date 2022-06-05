@@ -1,7 +1,7 @@
 ---
 title: "Evaluating COVID-19 cases and deaths"
 author: "Cherin-Juliette"
-output: bookdown::html_document
+output: html_document
 params:
   country:
     label: "Country"
